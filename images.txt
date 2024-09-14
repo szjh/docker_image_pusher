@@ -1,2 +1,4 @@
 minio/minio:latest
+scllovewkf/opencalib:v1
+sgeniusll/bev_trt:v1
 
